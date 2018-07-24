@@ -1,7 +1,7 @@
 Hashxcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/hashxcoin/hashxcoin)](https://travis-ci.org/hashxcoin/hashxcoin)
+[![Build Status](https://travis-ci.org/hashxcoin/hashxcoin.svg)](https://travis-ci.org/hashxcoin/hashxcoin)
 
 https://hashxcoin.org
 
